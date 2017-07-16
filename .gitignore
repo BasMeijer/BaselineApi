@@ -1,0 +1,10 @@
+# dependencies
+node_modules
+
+# misc
+.idea/
+.DS_Store
+.vscode
+.env
+npm-debug.log
+variables.env

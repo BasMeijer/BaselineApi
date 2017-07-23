@@ -1,2 +1,2 @@
-# ExpressAuthJWT
-Basic NodeJS/Express api with users and JWT authentication
+# Baseline API
+Basic NodeJS/Express api for the baseline application.

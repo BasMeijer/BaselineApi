@@ -1,6 +1,9 @@
 # dependencies
 node_modules
 
+# Data files
+/data
+
 # misc
 .idea/
 .DS_Store
